@@ -35,7 +35,7 @@ UDP packets were observed for lightweight and fast communication where reliabili
 - Wireshark allows detailed inspection of packet headers and protocol behavior.
 
 ## Files Included
-- `network_capture.pcap` – Captured network traffic file
+– Captured network traffic file
 - Screenshots showing:
   - Network interface selection
   - Live packet capture
